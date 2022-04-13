@@ -1,2 +1,2 @@
 # Lampada
- Projeto feito somente com HTML e JavaScript
+ Projeto feito com HTML, CSS e JavaScript, com o objetivo de treinar o JavaScript
